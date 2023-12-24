@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "[\"대륙\": 엘가시아]",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#세이크리아",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2460498960499,
+  "lineSizeMultiplier": 1.00155925155925,
+  "collapse-forces": true,
+  "centerStrength": 0.495841995841996,
+  "repelStrength": 10.7484407484407,
+  "linkStrength": 1,
+  "linkDistance": 210,
+  "scale": 0.42967809143425434,
+  "close": false
+}

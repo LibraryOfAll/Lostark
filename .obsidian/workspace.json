@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "86a9f0306ab06561",
+    "type": "split",
+    "children": [
+      {
+        "id": "624fb7c546b9bf81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d67489687a858ee2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6623109a0ef05f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8cd7a0810052c6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecbbda21659461ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "553ec0e99b591c0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "050c71d64a0d66ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "22310927678dc5ba",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37590c6be7779bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb87eadb62b3a2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce4aca66bb62f717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c389c2abc43160a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "691de7e8728a4115",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f0901ca87cd9a61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "342a29169f69984a",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "7033cbc5f8456e9d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d67489687a858ee2",
+  "lastOpenFiles": [
+    "저널 및 이미지 자료/0. 섬/프레테리아 섬/실험 보고서 제 12983 호.md",
+    "저널 및 이미지 자료/0. 섬/프레테리아 섬/구속 실험에 관한 연구 보고.md",
+    "저널 및 이미지 자료/0. 섬/프레테리아 섬/믿음과 의지 1권.md",
+    "저널 및 이미지 자료/0. 섬/프레테리아 섬/프레테리아 석상 제작 편람.md",
+    "저널 및 이미지 자료/0. 섬/프레테리아 섬/신규 전달 사항.md",
+    "세계관 주요 설정/종족 특성 능력/주문.md",
+    "Spaces/Home/Home.md",
+    "세계관 주요 설정/종족 특성 능력/연금술.md",
+    "세계관 주요 설정/종족 특성 능력/신성력.md",
+    "세계관 주요 설정/종족 특성 능력/마법.md",
+    "세계관 주요 설정/종족 특성 능력/스크롤.md",
+    "대륙/지역 및 장소/필레니소스 산.md",
+    "대륙/지역 및 장소/헤스테라 정원.md",
+    "대륙/지역 및 장소/아리안오브.md",
+    "대륙/지역 및 장소/섬/황혼의 섬.md",
+    "대륙/지역 및 장소/섬/프레테리아 섬.md",
+    "대륙/지역 및 장소/섬/지혜의 섬.md",
+    "대륙/지역 및 장소/섬/고요한 안식의 섬.md",
+    "저널 및 이미지 자료/0. 섬/프레테리아 섬/신원 미상의 일기.md",
+    "저널 및 이미지 자료/0. 섬/프레테리아 섬/피눈물을 흘리는 여인.md",
+    "아이템/실마엘 석상.md",
+    "아이템/헤스텔 석판.md",
+    "등장 인물/1. 에스더/초대 에스더 7인/카단.md",
+    "등장 인물/가디언/가디언 루.md",
+    "등장 인물/가디언/바르칸.md",
+    "등장 인물/가디언/에버그레이스.md",
+    "모험의 서/필드보스",
+    "저널 및 이미지 자료/0. 섬/지혜의 섬",
+    "퀘스트/일반 퀘스트",
+    "Spaces/Home",
+    "Spaces",
+    "세계관 주요 설정/차원 속성",
+    "아이템/스토리 아이템",
+    "저널 및 이미지 자료/에포나 평판 이야기",
+    "저널 및 이미지 자료/기억의 오르골/기억의 오르골2",
+    "저널 및 이미지 자료/기억의 오르골/기억의 오르골1",
+    "무제 파일.canvas"
+  ]
+}
